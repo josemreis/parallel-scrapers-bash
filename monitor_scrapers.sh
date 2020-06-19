@@ -1,3 +1,4 @@
+## Scraper's parent repo goes here
 cd '/home/jmr/Dropbox/Current projects/thesis_papers/transparency, media, and compliance with HR Rulings/ecthr_media&compliance/data/media_data/alternative_sources/scrape'
 DIR=./country-level
 ## start the while loop monitoring the folder changes
