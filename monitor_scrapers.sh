@@ -11,6 +11,6 @@ do
   echo ">> $CURFILE created -> Size: $z kb"
   echo -e "\n"
   ## print the first 3 lines of the output file
-  head -n 3 "$CURFILE"
+  head -n 3 "$CURFILE" | tr , '\n'
   echo -e "...\n\n"
 done
